@@ -5,5 +5,5 @@ Repositório para colocar os códigos que tenho feito na minha fase de aprendiza
 
 Essa é uma forma de utilizar o gráfico de dispersão da biblioteca Matplotilib, utilizando também a biblioteca Pandas como auxiliar para fazer a leitura dos dados. 
 
-[Gráfico_de_dispersão_utilizando_latitude_e_longitude.ipynb](\Gráfico_de_dispersão_utilizando_latitude_e_longitude.ipynb)
+<Gráfico_de_dispersão_utilizando_latitude_e_longitude.ipynb>
 
