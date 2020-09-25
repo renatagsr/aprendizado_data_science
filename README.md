@@ -1,5 +1,6 @@
-# aprendizado_data_science
-Repositório para colocar os códigos que tenho feito na minha fase de aprendizado em Data Science
+# Aprendizado em Data Science 
+
+Repositório para colocar os códigos que tenho feito na fase de aprendizado em Data Science, afim de documentar o meu processo e ajudar outras pessoas.
 
 # Gráfico de dispersão utilizando Latitude e Longitude
 
