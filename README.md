@@ -13,3 +13,9 @@ Essa é uma forma de utilizar o gráfico de dispersão da biblioteca Matplotilib
 Aprendizado de como se faz análises de séries temporais utilizando técnicas de data science. Notebook realizado durante formação de data sciene da plataforma Alura.
 
 [Análise_de_séries_temporais.ipynb](/Análise_de_séries_temporais.ipynb)
+
+# Scikitlearn
+
+Um pouco sobre utilização do Scikitlearn. Aula da plataforma Alura.
+
+[Scikitlearn.ipynb](/Scikitlearn.ipynb)
