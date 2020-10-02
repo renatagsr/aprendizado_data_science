@@ -19,3 +19,5 @@ Aprendizado de como se faz análises de séries temporais utilizando técnicas d
 Um pouco sobre utilização do Scikitlearn. Aula da plataforma Alura.
 
 [Scikitlearn.ipynb](/Scikitlearn.ipynb)
+
+[Scikitlearn_Parte_2.ipynb](/Scikitlearn_Parte_2.ipynb)
