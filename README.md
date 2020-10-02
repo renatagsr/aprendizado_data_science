@@ -33,3 +33,9 @@ Quando pega um data set para fazer análise dos seus dados há chances de que ha
 Aprendizado básico sobre a utilização do seaborn, plotando os gráficos, colocando títulos e subtítulos. 
 
 [Seaborn_básico.ipynb](/Seaborn_básico.ipynb)
+
+# Data Science e Saúde
+
+Uma análise dos dados mundiais do Coronavírus, sendo possível ver o seu aumento ao passar do tempo e sua comparação com outras doenças. Notebook construído durante aula do curso de formação de data science da plataforma Alura.
+
+[Data_Science_e_Saúde.ipynb](/Data_Science_e_Saúde.ipynb)
