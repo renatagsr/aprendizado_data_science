@@ -21,3 +21,9 @@ Um pouco sobre utilização do Scikitlearn. Aula da plataforma Alura.
 [Scikitlearn.ipynb](/Scikitlearn.ipynb)
 
 [Scikitlearn_Parte_2.ipynb](/Scikitlearn_Parte_2.ipynb)
+
+# Análise de data set contendo dados nulos 
+
+Quando pega um data set para fazer análise dos seus dados há chances de que haja dados nulos/dados faltantes, nesse notebook há algumas alternativas de como fazer para que se faça a análise dos dados sem que esses dados nulos interfiram no resultado.
+
+[Análise_com_data_set_contendo_dados_nulos.ipynb](/Análise_com_data_set_contendo_dados_nulos.ipynb)
