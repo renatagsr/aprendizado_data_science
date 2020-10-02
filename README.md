@@ -27,3 +27,9 @@ Um pouco sobre utilização do Scikitlearn. Aula da plataforma Alura.
 Quando pega um data set para fazer análise dos seus dados há chances de que haja dados nulos/dados faltantes, nesse notebook há algumas alternativas de como fazer para que se faça a análise dos dados sem que esses dados nulos interfiram no resultado.
 
 [Análise_com_data_set_contendo_dados_nulos.ipynb](/Análise_com_data_set_contendo_dados_nulos.ipynb)
+
+# Seaborn - Básico
+
+Aprendizado básico sobre a utilização do seaborn, plotando os gráficos, colocando títulos e subtítulos. 
+
+[Seaborn_básico.ipynb](/Seaborn_básico.ipynb)
