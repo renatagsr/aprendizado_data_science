@@ -39,3 +39,9 @@ Aprendizado básico sobre a utilização do seaborn, plotando os gráficos, colo
 Uma análise dos dados mundiais do Coronavírus, sendo possível ver o seu aumento ao passar do tempo e sua comparação com outras doenças. Notebook construído durante aula do curso de formação de data science da plataforma Alura.
 
 [Data_Science_e_Saúde.ipynb](/Data_Science_e_Saúde.ipynb)
+
+# Data Storytelling
+
+Um exemplo de como a preocupação com a forma que irá mostrar os dados será um diferencial ao apresentar os resultados e ao explicar a linha de pensamento. 
+
+[Data_Storytelling.ipynb](/Data_Storytelling.ipynb)
